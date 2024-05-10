@@ -1,2 +1,3 @@
 # Y2S2-ES-Assignment
-This assignment based on Embedded System
+This assignment is an Individual assignment based on Atmel Studio, Embedded System, etc...
+
