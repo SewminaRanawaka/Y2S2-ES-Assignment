@@ -1,0 +1,1627 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial5beginEmh)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (delay)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                              Sketch.o (analogWrite)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                              Sketch.o (_ZN6IRrecvC1Ei)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (irparams)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv16decodeAiwaRCT501EP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv11decodeDenonEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv9decodeJVCEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv8decodeLGEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv15decodeMagiQuestEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv16decodeMitsubishiEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv9decodeNECEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv15decodePanasonicEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv9decodeRC5EP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv13decodeSAMSUNGEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv11decodeSanyoEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv11decodeSharpEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv14decodeSharpAltEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv10decodeSonyEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (_ZN6IRrecv13decodeWhynterEP14decode_results)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o) (_ZN6IRsend11enableIROutEi)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o) (__mulsi3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o) (__udivmodhi4)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              Sketch.o (__divmodhi4)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o) (__divmodsi4)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o) (__umulhisi3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o) (__muluhisi3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o) (__ashldi3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o) (__lshrdi3)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o) (__cmpdi2_s8)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0xe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x90 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1b6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogRead
+                0x00000000       0x3a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data.analog_reference
+                0x00000000        0x1 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .text._ZN6IRrecvC2Eii
+                0x00000000       0x1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .text._ZN6IRrecv11disableIRInEv
+                0x00000000        0xa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .text._ZN6IRrecv7blink13Ei
+                0x00000000       0x12 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .text._ZN6IRrecv6isIdleEv
+                0x00000000       0x1a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .text._ZN6IRsend14sendAiwaRCT501Ei
+                0x00000000       0xf2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .text._ZN6IRsend9sendDenonEmi
+                0x00000000       0xc2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .text._ZN6IRsend7sendJVCEmib
+                0x00000000       0xca D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .text._ZN6IRsend6sendLGEmi
+                0x00000000       0xbc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .text._ZN6IRsend13sendMagiQuestEmj
+                0x00000000      0x104 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .text._ZN6IRsend7sendNECEmib
+                0x00000000       0xe2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .text._ZN6IRsend13sendPanasonicEjm
+                0x00000000      0x110 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .text._ZN6IRsend7sendRC5Emi
+                0x00000000       0xc8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .text._ZN6IRsend10sendRC5extEmmb
+                0x00000000      0x192 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .text._ZN6IRsend7sendRC6Emi
+                0x00000000      0x10c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .data._ZZN6IRsend10sendRC5extEmmbE9toggleBit
+                0x00000000        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .text._ZN6IRsend11sendSAMSUNGEmi
+                0x00000000       0xc2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .text._ZN6IRsend12sendSharpRawEmi
+                0x00000000       0xe4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .text._ZN6IRsend9sendSharpEjj
+                0x00000000       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .text._ZN6IRsend15sendSharpAltRawEmi
+                0x00000000       0xca D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .text._ZN6IRsend12sendSharpAltEjm
+                0x00000000       0x3a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .text._ZN6IRsend8sendSonyEmi
+                0x00000000       0xaa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .text._ZN6IRsend11sendWhynterEmi
+                0x00000000       0xd6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1d2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .data          0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .bss           0x00000000        0x0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend11enableIROutEi
+                0x00000000       0x68 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend17custom_delay_usecEm
+                0x00000000       0x70 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend4markEj
+                0x00000000       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend5spaceEj
+                0x00000000       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend7sendRawEPKjjj
+                0x00000000       0x60 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text._ZN6IRsend9sendRaw_PEPKjjj
+                0x00000000       0x62 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_info    0x00000000      0xb1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_abbrev  0x00000000      0x27a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_loc     0x00000000      0x70a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_aranges
+                0x00000000       0x48 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_ranges  0x00000000       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_line    0x00000000      0x2e8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_str     0x00000000      0x7ff D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .comment       0x00000000       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .debug_frame   0x00000000      0x100 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irSend.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc   0x00000000       0x18 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2d02
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+                0x000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 Sketch.o
+ .ctors         0x000000c4        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000c6                __ctors_end = .
+                0x000000c6                __dtors_start = .
+ *(.dtors)
+                0x000000c6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c6        0x0 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000c6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c6        0xc D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d2       0x16 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000d2                __do_copy_data
+ .init4         0x000000e8       0x10 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000e8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000f8       0x16 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x000000f8                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010e        0x8 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000116        0x4 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000116                __vector_22
+                0x00000116                __vector_1
+                0x00000116                __vector_24
+                0x00000116                __vector_12
+                0x00000116                __bad_interrupt
+                0x00000116                __vector_6
+                0x00000116                __vector_3
+                0x00000116                __vector_23
+                0x00000116                __vector_25
+                0x00000116                __vector_11
+                0x00000116                __vector_13
+                0x00000116                __vector_17
+                0x00000116                __vector_5
+                0x00000116                __vector_4
+                0x00000116                __vector_9
+                0x00000116                __vector_2
+                0x00000116                __vector_21
+                0x00000116                __vector_15
+                0x00000116                __vector_8
+                0x00000116                __vector_14
+                0x00000116                __vector_10
+                0x00000116                __vector_20
+                0x0000011a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.setup    0x0000011a       0x52 Sketch.o
+                0x0000011a                setup
+ .text.loop     0x0000016c      0x592 Sketch.o
+                0x0000016c                loop
+ .text.startup._GLOBAL__sub_I_count
+                0x000006fe        0xc Sketch.o
+ .text._ZN14HardwareSerial9availableEv
+                0x0000070a       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000070a                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000722       0x1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000722                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x0000073e       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000073e                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000766       0x1e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000766                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x00000784       0x1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000784                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x000007a0       0x44 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000007a0                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x000007e4       0x9a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000007e4                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x0000087e       0x44 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000087e                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x000008c2       0xca D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000008c2                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x0000098c       0x64 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000098c                __vector_18
+ .text.__vector_19
+                0x000009f0       0x4c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000009f0                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000a3c       0x14 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000a3c                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000a50       0x5a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x00000aaa        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000aaa                initVariant
+ .text.startup.main
+                0x00000aac       0x1e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000aac                main
+ .text._ZN5Print5writeEPKhj
+                0x00000aca       0x54 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000aca                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000b1e       0x2a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b1e                _ZN5Print5writeEPKc
+ .text._ZN5Print7printlnEv
+                0x00000b48        0x8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b48                _ZN5Print7printlnEv
+ .text._ZN5Print11printNumberEmh
+                0x00000b50       0x92 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b50                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000be2       0x1a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000be2                _ZN5Print5printEmi
+ .text._ZN5Print7printlnEmi
+                0x00000bfc       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000bfc                _ZN5Print7printlnEmi
+ .text.__vector_16
+                0x00000c20       0x94 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000c20                __vector_16
+ .text.micros   0x00000cb4       0x4a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000cb4                micros
+ .text.delay    0x00000cfe       0x78 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000cfe                delay
+ .text.init     0x00000d76       0x76 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000d76                init
+ .text.analogWrite
+                0x00000dec       0xbe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000dec                analogWrite
+ .text.turnOffPWM
+                0x00000eaa       0x52 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00000efc       0x78 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000efc                pinMode
+ .text.digitalWrite
+                0x00000f74       0x5e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000f74                digitalWrite
+ .text.digitalRead
+                0x00000fd2       0x52 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000fd2                digitalRead
+ .text._ZN6IRrecvC2Ei
+                0x00001024        0xa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x00001024                _ZN6IRrecvC1Ei
+                0x00001024                _ZN6IRrecvC2Ei
+ .text._ZN6IRrecv10enableIRInEv
+                0x0000102e       0x2e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x0000102e                _ZN6IRrecv10enableIRInEv
+ .text._ZN6IRrecv6resumeEv
+                0x0000105c        0xc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x0000105c                _ZN6IRrecv6resumeEv
+ .text._ZN6IRrecv7compareEjj
+                0x00001068       0x4a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x00001068                _ZN6IRrecv7compareEjj
+ .text._ZN6IRrecv10decodeHashEP14decode_results
+                0x000010b2       0xe0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x000010b2                _ZN6IRrecv10decodeHashEP14decode_results
+ .text._ZN6IRrecv6decodeEP14decode_results
+                0x00001192      0x122 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                0x00001192                _ZN6IRrecv6decodeEP14decode_results
+ .text._Z5MATCHii
+                0x000012b4       0x30 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                0x000012b4                _Z5MATCHii
+ .text._Z10MATCH_MARKii
+                0x000012e4       0x34 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                0x000012e4                _Z10MATCH_MARKii
+ .text._Z11MATCH_SPACEii
+                0x00001318       0x34 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                0x00001318                _Z11MATCH_SPACEii
+ .text.__vector_7
+                0x0000134c      0x198 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                0x0000134c                __vector_7
+ .text._ZN6IRrecv16decodeAiwaRCT501EP14decode_results
+                0x000014e4      0x124 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+                0x000014e4                _ZN6IRrecv16decodeAiwaRCT501EP14decode_results
+ .text._ZN6IRrecv11decodeDenonEP14decode_results
+                0x00001608       0xf8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+                0x00001608                _ZN6IRrecv11decodeDenonEP14decode_results
+ .text._ZN6IRrecv9decodeJVCEP14decode_results
+                0x00001700      0x178 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+                0x00001700                _ZN6IRrecv9decodeJVCEP14decode_results
+ .text._ZN6IRrecv8decodeLGEP14decode_results
+                0x00001878      0x11a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+                0x00001878                _ZN6IRrecv8decodeLGEP14decode_results
+ .text._ZN6IRrecv15decodeMagiQuestEP14decode_results
+                0x00001992      0x136 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+                0x00001992                _ZN6IRrecv15decodeMagiQuestEP14decode_results
+ .text._ZN6IRrecv16decodeMitsubishiEP14decode_results
+                0x00001ac8      0x11a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+                0x00001ac8                _ZN6IRrecv16decodeMitsubishiEP14decode_results
+ .text._ZN6IRrecv9decodeNECEP14decode_results
+                0x00001be2      0x146 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+                0x00001be2                _ZN6IRrecv9decodeNECEP14decode_results
+ .text._ZN6IRrecv15decodePanasonicEP14decode_results
+                0x00001d28      0x12c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+                0x00001d28                _ZN6IRrecv15decodePanasonicEP14decode_results
+ .text._ZN6IRrecv10getRClevelEP14decode_resultsPjPii
+                0x00001e54       0xee D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+                0x00001e54                _ZN6IRrecv10getRClevelEP14decode_resultsPjPii
+ .text._ZN6IRrecv9decodeRC5EP14decode_results
+                0x00001f42      0x150 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+                0x00001f42                _ZN6IRrecv9decodeRC5EP14decode_results
+ .text._ZN6IRrecv9decodeRC6EP14decode_results
+                0x00002092      0x1fa D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+                0x00002092                _ZN6IRrecv9decodeRC6EP14decode_results
+ .text._ZN6IRrecv13decodeSAMSUNGEP14decode_results
+                0x0000228c      0x146 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+                0x0000228c                _ZN6IRrecv13decodeSAMSUNGEP14decode_results
+ .text._ZN6IRrecv11decodeSanyoEP14decode_results
+                0x000023d2      0x156 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+                0x000023d2                _ZN6IRrecv11decodeSanyoEP14decode_results
+ .text._ZN6IRrecv11decodeSharpEP14decode_results
+                0x00002528      0x2d2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+                0x00002528                _ZN6IRrecv11decodeSharpEP14decode_results
+ .text._ZN6IRrecv14decodeSharpAltEP14decode_results
+                0x000027fa      0x118 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+                0x000027fa                _ZN6IRrecv14decodeSharpAltEP14decode_results
+ .text._ZN6IRrecv10decodeSonyEP14decode_results
+                0x00002912      0x142 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+                0x00002912                _ZN6IRrecv10decodeSonyEP14decode_results
+ .text._ZN6IRrecv13decodeWhynterEP14decode_results
+                0x00002a54      0x146 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+                0x00002a54                _ZN6IRrecv13decodeWhynterEP14decode_results
+ .text.__empty  0x00002b9a        0x2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00002b9a                yield
+ .text.libgcc.mul
+                0x00002b9c       0x20 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x00002b9c                __mulsi3
+ .text.libgcc.div
+                0x00002bbc       0x28 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002bbc                __udivmodhi4
+ .text.libgcc.div
+                0x00002be4       0x28 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00002be4                _div
+                0x00002be4                __divmodhi4
+ .text.libgcc.div
+                0x00002c0c       0x44 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002c0c                __udivmodsi4
+ .text.libgcc.mul
+                0x00002c50       0x1e d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00002c50                __umulhisi3
+ .text.libgcc.mul
+                0x00002c6e       0x16 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00002c6e                __muluhisi3
+ .text.libgcc.builtins
+                0x00002c84       0x32 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                0x00002c84                __ashldi3
+ .text.libgcc.builtins
+                0x00002cb6       0x3c d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                0x00002cb6                __ashrdi3
+                0x00002cba                __lshrdi3
+ .text.libgcc   0x00002cf2        0xc d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002cf2                __tablejump2__
+                0x00002cfe                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002cfe        0x0 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002cfe                _exit
+                0x00002cfe                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002cfe        0x4 d:/campus/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002d02                _etext = .
+
+.data           0x00800100       0x26 load address 0x00002d02
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.bright   0x00800100        0x2 Sketch.o
+                0x00800100                bright
+ .data.count    0x00800102        0x2 Sketch.o
+                0x00800102                count
+ .data._ZZN6IRrecv14decodeSharpAltEP14decode_resultsE15is_first_repeat
+                0x00800104        0x1 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800105       0x12 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800105                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00800117        0xf D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ *(.gnu.linkonce.r*)
+                0x00800126                . = ALIGN (0x2)
+                0x00800126                _edata = .
+                0x00800126                PROVIDE (__data_end, .)
+
+.bss            0x00800126      0x18d
+                0x00800126                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.results   0x00800126       0x11 Sketch.o
+                0x00800126                results
+ .bss.irrecv    0x00800137        0x1 Sketch.o
+                0x00800137                irrecv
+ .bss.rgbcount  0x00800138        0x2 Sketch.o
+                0x00800138                rgbcount
+ .bss.Serial    0x0080013a       0x9d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0080013a                Serial
+ .bss.timer0_fract
+                0x008001d7        0x1 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008001d8        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008001d8                timer0_millis
+ .bss.timer0_overflow_count
+                0x008001dc        0x4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008001dc                timer0_overflow_count
+ .bss.irparams  0x008001e0       0xd3 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                0x008001e0                irparams
+ *(COMMON)
+                0x008002b3                PROVIDE (__bss_end, .)
+                0x00002d02                __data_load_start = LOADADDR (.data)
+                0x00002d28                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002b3        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008002b3                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .comment       0x00000030       0x31 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x5f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 Sketch.o
+ .debug_aranges
+                0x00000030       0x68 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000098       0x48 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x000000e0       0x30 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000110      0x100 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000210       0x48 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000258       0x30 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_aranges
+                0x00000288       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000002c0       0x68 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_aranges
+                0x00000328       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_aranges
+                0x00000360       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_aranges
+                0x00000388       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_aranges
+                0x000003b0       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_aranges
+                0x000003d8       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_aranges
+                0x00000400       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_aranges
+                0x00000428       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_aranges
+                0x00000448       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_aranges
+                0x00000470       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_aranges
+                0x00000498       0x48 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_aranges
+                0x000004e0       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_aranges
+                0x00000508       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_aranges
+                0x00000528       0x30 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_aranges
+                0x00000558       0x30 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_aranges
+                0x00000588       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_aranges
+                0x000005b0       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_aranges
+                0x000005d8       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x2e76d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x2360 Sketch.o
+ .debug_info    0x00002954     0x1f64 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x000048b8     0x1b16 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000063ce      0x237 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00006605     0x28ff D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00008f04      0x2cb D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000091cf      0x26d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x0000943c      0x5fe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00009a3a     0x22d0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_info    0x0000bd0a      0x356 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_info    0x0000c060     0x2543 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_info    0x0000e5a3     0x24d0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_info    0x00010a73     0x252d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_info    0x00012fa0     0x24d1 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_info    0x00015471     0x24a4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_info    0x00017915     0x1df5 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_info    0x0001970a     0x2538 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_info    0x0001bc42     0x2463 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_info    0x0001e0a5     0x2eb6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_info    0x00020f5b     0x2504 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_info    0x0002345f     0x1e0f D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_info    0x0002526e     0x25f5 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_info    0x00027863     0x2522 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_info    0x00029d85     0x2440 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_info    0x0002c1c5     0x256a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_info    0x0002e72f       0x3e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x5af8
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x3e0 Sketch.o
+ .debug_abbrev  0x00000982      0x4b7 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000e39      0x3ce D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001207      0x12d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001334      0x47a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000017ae      0x146 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x000018f4      0x16b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00001a5f      0x15b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001bba      0x492 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_abbrev  0x0000204c      0x147 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_abbrev  0x00002193      0x3e7 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_abbrev  0x0000257a      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_abbrev  0x00002950      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_abbrev  0x00002d26      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_abbrev  0x000030fc      0x401 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_abbrev  0x000034fd      0x368 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_abbrev  0x00003865      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_abbrev  0x00003c3b      0x3a3 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_abbrev  0x00003fde      0x419 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_abbrev  0x000043f7      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_abbrev  0x000047cd      0x368 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_abbrev  0x00004b35      0x40b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_abbrev  0x00004f40      0x3fd D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_abbrev  0x0000533d      0x3bb D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_abbrev  0x000056f8      0x3d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_abbrev  0x00005ace       0x2a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x524b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x565 Sketch.o
+ .debug_line    0x00000699      0x49d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000b36      0x272 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000da8      0x158 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00000f00      0x66b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x0000156b      0x28c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000017f7      0x202 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x000019f9      0x245 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00001c3e      0x46c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_line    0x000020aa      0x2ae D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_line    0x00002358      0x2fb D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_line    0x00002653      0x2d5 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_line    0x00002928      0x311 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_line    0x00002c39      0x2d1 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_line    0x00002f0a      0x2dc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_line    0x000031e6      0x25d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_line    0x00003443      0x313 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_line    0x00003756      0x2a4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_line    0x000039fa      0x609 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_line    0x00004003      0x2ff D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_line    0x00004302      0x264 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_line    0x00004566      0x395 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_line    0x000048fb      0x33a D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_line    0x00004c35      0x2d6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_line    0x00004f0b      0x2ff D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_line    0x0000520a       0x41 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000     0x14d0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 Sketch.o
+ .debug_frame   0x00000044      0x110 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00000154       0xe0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000234       0x54 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000288      0x3ac D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000634       0xc4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000006f8       0x54 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x0000074c       0x7c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x000007c8      0x11c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_frame   0x000008e4       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_frame   0x00000980       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_frame   0x00000a1c       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_frame   0x00000ab8       0xa0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_frame   0x00000b58       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_frame   0x00000bf4       0xb8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_frame   0x00000cac       0x60 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_frame   0x00000d0c       0xa0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_frame   0x00000dac       0xcc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_frame   0x00000e78      0x23c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_frame   0x000010b4       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_frame   0x00001150       0x60 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_frame   0x000011b0       0xf4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_frame   0x000012a4       0xc8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_frame   0x0000136c       0xa4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_frame   0x00001410       0x9c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_frame   0x000014ac       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x2fb8
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/Campus/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x18bc Sketch.o
+                               0x19a6 (size before relaxing)
+ .debug_str     0x00001ac4      0x493 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x1649 (size before relaxing)
+ .debug_str     0x00001f57       0x86 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x143c (size before relaxing)
+ .debug_str     0x00001fdd       0x37 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00002014      0x3d4 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1276 (size before relaxing)
+ .debug_str     0x000023e8      0x15c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x27e (size before relaxing)
+ .debug_str     0x00002544       0x6b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x282 (size before relaxing)
+ .debug_str     0x000025af       0xa9 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2e3 (size before relaxing)
+ .debug_str     0x00002658       0xa3 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+                               0x1902 (size before relaxing)
+ .debug_str     0x000026fb       0xb6 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+                                0x3b8 (size before relaxing)
+ .debug_str     0x000027b1      0x4e2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+                               0x1dcf (size before relaxing)
+ .debug_str     0x00002c93       0x2d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+                               0x1dd1 (size before relaxing)
+ .debug_str     0x00002cc0       0x25 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+                               0x1dd6 (size before relaxing)
+ .debug_str     0x00002ce5       0x24 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+                               0x1dce (size before relaxing)
+ .debug_str     0x00002d09       0x68 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+                               0x1dee (size before relaxing)
+ .debug_str     0x00002d71       0x2c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+                               0x1903 (size before relaxing)
+ .debug_str     0x00002d9d       0x25 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+                               0x1dd6 (size before relaxing)
+ .debug_str     0x00002dc2       0x2b D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+                               0x1d84 (size before relaxing)
+ .debug_str     0x00002ded       0x89 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+                               0x1e44 (size before relaxing)
+ .debug_str     0x00002e76       0x29 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+                               0x1dd3 (size before relaxing)
+ .debug_str     0x00002e9f       0x27 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+                               0x18fe (size before relaxing)
+ .debug_str     0x00002ec6       0x3e D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+                               0x1df3 (size before relaxing)
+ .debug_str     0x00002f04       0x49 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+                               0x1df4 (size before relaxing)
+ .debug_str     0x00002f4d       0x26 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+                               0x1dd0 (size before relaxing)
+ .debug_str     0x00002f73       0x29 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+                               0x1dd3 (size before relaxing)
+ .debug_str     0x00002f9c       0x1c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x173 (size before relaxing)
+
+.debug_loc      0x00000000     0x6f34
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x16 Sketch.o
+ .debug_loc     0x00000016      0x4dc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x000004f2      0x1b0 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000006a2     0x1c87 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002329      0x28d D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x000025b6       0xfe D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x000026b4      0x5fc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00002cb0      0x4a5 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_loc     0x00003155      0x1e5 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_loc     0x0000333a      0x33c D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_loc     0x00003676      0x2fc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_loc     0x00003972      0x351 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_loc     0x00003cc3      0x329 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_loc     0x00003fec      0x3a8 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_loc     0x00004394      0x1f2 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_loc     0x00004586      0x318 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_loc     0x0000489e      0x3ed D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_loc     0x00004c8b      0xd2f D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_loc     0x000059ba      0x2ea D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_loc     0x00005ca4      0x1cc D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_loc     0x00005e70      0x608 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_loc     0x00006478      0x458 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_loc     0x000068d0      0x323 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_loc     0x00006bf3      0x341 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x488
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 Sketch.o
+ .debug_ranges  0x00000020       0x58 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000078       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000b0       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000000d0      0x120 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000001f0       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000228       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x00000248       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000270       0x58 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(irRecv.o)
+ .debug_ranges  0x000002c8       0x28 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(IRremote.o)
+ .debug_ranges  0x000002f0       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Aiwa.o)
+ .debug_ranges  0x00000308       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Denon.o)
+ .debug_ranges  0x00000320       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_JVC.o)
+ .debug_ranges  0x00000338       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_LG.o)
+ .debug_ranges  0x00000350       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_MagiQuest.o)
+ .debug_ranges  0x00000368       0x10 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Mitsubishi.o)
+ .debug_ranges  0x00000378       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_NEC.o)
+ .debug_ranges  0x00000390       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Panasonic.o)
+ .debug_ranges  0x000003a8       0x38 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_RC5_RC6.o)
+ .debug_ranges  0x000003e0       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Samsung.o)
+ .debug_ranges  0x000003f8       0x10 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sanyo.o)
+ .debug_ranges  0x00000408       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp.o)
+ .debug_ranges  0x00000428       0x20 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sharp_alt.o)
+ .debug_ranges  0x00000448       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Sony.o)
+ .debug_ranges  0x00000460       0x18 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(ir_Whynter.o)
+ .debug_ranges  0x00000478       0x10 D:\(01) SLIIT\Year 02 Semester 02\(IE2070) Embedded Systems\Assignment\ES_Assignment\Micro_Assignment\Micro_Assignment\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(ES_Assignment.elf elf32-avr)
+LOAD linker stubs
